@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SampleApplication</string>
+    <string name="view_page">View Details</string>
+    <string name="add_details">Add Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_details">View Details</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="add_data">Add Data</string>
+    <string name="service">Service</string>
+    <string name="background_service_example">Background Service Example</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="api">Api</string>
+    <string name="mockApiLink">http://demo5755415.mockable.io/</string>
+    <string name="code">Code :</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_body">Enter Body</string>
+    <string name="enter_user_id">Enter User Id</string>
+    <string name="get_data">Get Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="post_data">Post Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="submit">Submit</string>
+</resources>
